@@ -1,2 +1,1 @@
-# Current Objectives
-Will add later after some thought...
+# FAQ
