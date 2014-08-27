@@ -1,5 +1,5 @@
 # EasyFarm
-EasyFarm is a general purpose farming utility for the game Final Fantasy XI which controls your character and farms items on your behalf. The program was originally design to farm craft items like beehive chips but over time additional features were added to make the program more efficient. 
+EasyFarm is a general purpose farming utility for the game Final Fantasy XI which controls your character and farms items on your behalf. The program was originally design to farm craft items like beehive chips but over time with suggestions from the community additional features were added to make the program more efficient. 
 
 ![EasyFarm GUI](http://snag.gy/hc2Wj.jpg)
 
