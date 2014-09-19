@@ -5,13 +5,18 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
 
 # Features
 * Two modes of farming
-  * Camping - Stands in place and kills any mobs it sees.
-  * Patrolling - Runs along a path and kills any mobs it sees. 
+  * Camping - Stand in place farming
+  * Patrolling - Running path farming
 * Aggro Detection
-* Healing and Resting
+* Resting and Healing
 * (planned) Fields of Valor / Grounds of Valor support
 * (planned) Trust Magic support
 * (planned) Player Detection
+* (planned) Casting On Buff Lose / Gain
+* (planned) Item Usage Support 
+* (planned) Dynamis Support (procing)
+* (planned) Monstrosity Support
+* (planned) Command Line Support (start / stop commands)
 
 # Requirements
 * .Net Framework 4.5
