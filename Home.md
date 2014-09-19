@@ -1,17 +1,26 @@
 # EasyFarm
-EasyFarm is a general purpose farming utility for the game Final Fantasy XI which controls your character and farms items on your behalf. The program was originally design to farm craft items like beehive chips but over time with suggestions from the community additional features were added to make the program more efficient. 
+Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpose is to give all jobs the ability to automate its farming process. The program should support traditional and newer modes of farming. 
 
 ![EasyFarm GUI](http://snag.gy/hc2Wj.jpg)
 
-# Support
-Bug reports and suggestions can also be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/). This is the primary place where questions can be answered.
-
 # Features
-The program provides a number of features that allows for efficient farming. 
-
-* Supports two modes of farming
+* Two modes of farming
   * Camping - Stands in place and kills any mobs it sees.
   * Patrolling - Runs along a path and kills any mobs it sees. 
+* Aggro Detection
+* Healing and Resting
+* (planned) Fields of Valor / Grounds of Valor support
+* (planned) Trust Magic support
+* (planned) Player Detection
+
+# Requirements
+* .Net Framework 4.5
+* FFACE.dll
+* FFACETools.dll
+* XI-Tools.dll
+
+# Support
+Bug reports and suggestions can also be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/). This is the primary place where questions can be answered.
 
 # Tutorial
 Coming soon!
