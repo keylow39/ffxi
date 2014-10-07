@@ -19,10 +19,13 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
 * (planned) Command Line Support (start / stop commands)
 
 # Requirements
-* .Net Framework 4.5
-* FFACE.dll
-* FFACETools.dll
+* FFace.dll
+* FFaceTools.dll
 * XI-Tools.dll
+* Resource Files
+* Microsoft .NET Framework 4.5
+* Visual C++ Redistributable Packages for Visual Studio 2013
+
 
 # Support
 Bug reports and suggestions can also be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/). This is the primary place where questions can be answered.
