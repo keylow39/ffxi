@@ -37,18 +37,18 @@ Coming soon!
 Anyone can contribute to the project. Just make sure you've done your best to test the code you are changing and send me a pull request, and I'll add in your contribution!
 
 # FAQ
-**Q: Does the program detect aggro?**
+**Does the program detect aggro?**
 
-A: Yes, the program can detect whether the player has aggro.
+Yes, the program can detect whether the player has aggro.
 
-**Q: The program has caused my character to keeping running and I can't get him to stop. What should I do?**
+**The program has caused my character to keeping running and I can't get him to stop. What should I do?**
 
-A: Shut down the program, restart it and re-hit the start button.
+Shut down the program, restart it and re-hit the start button.
 
-**Q: Why is the program not targeting mobs correctly or not at all?
+**Why is the program not targeting mobs correctly or not at all?**
 
-A: Try turning off the in-game auto target feature and see if that fixes the problem. 
+Try turning off the in-game auto target feature and see if that fixes the problem. 
 
-**Q: Can you please add feature X?**
+**Can you please add feature X?**
 
-A: If the feature you request is in line with the goals of the program of course but adding additional features will take some time. 
+If the feature you request is in line with the goals of the program of course but adding additional features will take some time. 
