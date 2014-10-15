@@ -24,7 +24,7 @@ In order to add new behavior to the class (like healing or resting) you will nee
 ## Adding a new view
 There are three steps you need to take to add a new view.
 
-1.Create the view.
-2.Create a new view model inheriting ViewModelBase.
-3.Set the view's data context to the view model in the view's code behind. 
-4.In the main view's xaml file add a new tab and set it's content to that of your new view. 
+1. Create the view.
+2. Create a new view model inheriting ViewModelBase.
+3. Set the view's data context to the view model in the view's code behind. 
+4. In the main view's xaml file add a new tab and set it's content to that of your new view. 
