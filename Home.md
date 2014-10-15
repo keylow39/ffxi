@@ -45,6 +45,10 @@ A: Yes, the program can detect whether the player has aggro.
 
 A: Shut down the program, restart it and re-hit the start button.
 
+**Q: Why is the program not targeting mobs correctly or not at all?
+
+A: Try turning off the in-game auto target feature and see if that fixes the problem. 
+
 **Q: Can you please add feature X?**
 
 A: If the feature you request is in line with the goals of the program of course but adding additional features will take some time. 
