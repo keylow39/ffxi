@@ -14,6 +14,7 @@ Additionally, the program needs these files in order to work.
 
 ## How the program works
 The program is actually very simple. The finite state machine and state classes execute the program's behavior. Any game data you need is stored globally in the App class's FarmingTools object. 
+[Out of Date: Please update for current code. ]
 
 ## Adding new behavior to the program. 
 In order to add new behavior to the class (like healing or resting) you will need to create a new state and add it to the finite state machine. There are two steps to this process. 
