@@ -41,6 +41,10 @@ Anyone can contribute to the project. Just make sure you've done your best to te
 
 Yes, the program can detect whether the player has aggro.
 
+**Why does the new version of the program crash?**
+
+1. Using an old user preference file may cause the program to crash. Delete the preference file and let the program generate a new one. 
+
 **The program has caused my character to keeping running and I can't get him to stop. What should I do?**
 
 Shut down the program, restart it and re-hit the start button.
