@@ -1,7 +1,7 @@
 # EasyFarm
 Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpose is to give all jobs the ability to automate its farming process. The program should support traditional and newer modes of farming. 
 
-![EasyFarm GUI](http://snag.gy/hc2Wj.jpg)
+![EasyFarm GUI](http://i.imgur.com/r7md4nv.png)
 
 # Features
 * Two modes of farming
