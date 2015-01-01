@@ -25,3 +25,8 @@ Buffing is used to buff the player before battles so that they are prepared to f
 Once again, we can combine these strategies. Ideally we would want to keep buffs on the whole time minimizing time spent casting before engaging. Seigan (duration=5m, recast=1m) can be kept up full time, but Third Eye (duration=30s, recast=1m) should be cast just before. 
 
 Now, if Seigan wears off during battle and we only use buffs before battle, the effectiveness of Seigan will be lowered. Maybe we should have one list of buffs to maintain at all time and one to use before battles. 
+
+## Healing
+How can we most effectively cure?
+| Strategy | Description |
+| Heal target when hp low | Use cure when a player's health is below a certain percent |
