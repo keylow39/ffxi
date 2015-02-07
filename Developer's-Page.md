@@ -12,7 +12,7 @@ Additionally, the program needs these files in order to work.
 * FFACETools (A wrapper for FFACE that makes development easier)
 
 ## Key Classes
-The list of the major classes and their roles can be found [here](!https://github.com/EasyFarm/EasyFarm/wiki/Key-Classes). It also includes a sample of how they are used within the program. 
+The list of the major classes and their roles can be found [here](https://github.com/EasyFarm/EasyFarm/wiki/Key-Classes). It also includes a sample of how they are used within the program. 
 
 ## How the program works
 The program has a really simple design. The program now uses a component system, which is just a fancy finite state machine. What this allows us to do is to have state machines that can contain other state machines allowing deep nesting of states and more control of behavioral flow. 
