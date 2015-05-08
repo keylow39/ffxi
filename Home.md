@@ -1,7 +1,7 @@
 # EasyFarm
 Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpose is to give all jobs the ability to automate its farming process. The program should support traditional and newer modes of farming. 
 
-![EasyFarm GUI](http://i.imgur.com/r7md4nv.png)
+![EasyFarm GUI](http://i.imgur.com/pcrEm66.png)
 
 # Features
 * Two modes of farming
@@ -9,10 +9,10 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
   * Patrolling - Running path farming
 * Aggro Detection
 * Resting and Healing
+* Casting On Buff Lose / Gain
 * (planned) Fields of Valor / Grounds of Valor support
 * (planned) Trust Magic support
 * (planned) Player Detection
-* (planned) Casting On Buff Lose / Gain
 * (planned) Item Usage Support 
 * (planned) Dynamis Support (procing)
 * (planned) Monstrosity Support
@@ -24,7 +24,6 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
 * Resource Files
 * Microsoft .NET Framework 4.5
 * Visual C++ Redistributable Packages for Visual Studio 2013
-
 
 # Support
 Bug reports and suggestions can also be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/). This is the primary place where questions can be answered.
