@@ -18,3 +18,10 @@ The list of the major classes and their roles can be found [here](https://github
 The program has a really simple design. The program now uses a component system, which is just a fancy finite state machine. What this allows us to do is to have state machines that can contain other state machines allowing deep nesting of states and more control of behavioral flow. 
 
 User data is contained in the Config class where it can be accessed globally by all classes that depend on it. The MVVM design pattern has been implemented which controls users interactions and pushes settings into the config class to make it available for other classes. 
+
+## Versioning Scheme
+Versioning = 1.0.0.0
+Architecture Changed = 2.0.0.0
+Features Added = 1.1.0.0
+Bugs Fixed = 1.0.1.0
+Comments Added = 1.0.0.1
