@@ -26,7 +26,9 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
 * Visual C++ Redistributable Packages for Visual Studio 2013
 
 # Support
-Bug reports and suggestions can also be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/). This is the primary place where questions can be answered.
+**Note: Forums are down currently; feel free to send me an email at MikeBartron@gmail.com or use the [support issue](https://github.com/EasyFarm/EasyFarm/issues/130) for questions or feedback regarding the program.**
+
+Bug reports and suggestions can be made at the [FFEvo EasyFarm Support Thread](http://www.ffevo.net/topic/3137-easyfarm/), and is the primary place where questions can be answered.  
 
 # Tutorial
 Coming soon!
