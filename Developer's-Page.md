@@ -4,8 +4,9 @@ This document contains the development documentation for the Final Fantasy XI Ea
 ## Program Dependencies
 The program uses these technologies from Microsoft. 
 * .Net Framework 4.5
-* Prism (For MVVM)
-* Enterprise Library (For logging)
+* Prism (MVVM Support)
+* Enterprise Library (Logging Support)
+* MahApps Metro (UI Controls)
 
 Additionally, the program needs these files in order to work.
 * FFACE.dll (Reads memory from Final Fantasy XI game instances)
