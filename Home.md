@@ -28,7 +28,7 @@ Easyfarm is a general purpose farm bot for the game Final Fantasy XI. Its purpos
     *Make sure your using the X86 version of the Visual Studio 2013 C++ Redistributable even if you have a 64 bit operating system.*
 
 ## Support
-Use the [support issue](https://github.com/EasyFarm/EasyFarm/issues/130) for questions and feedback regarding the program. You can also create an issue for request enhancements or bug fixes. 
+Use the [support issue](https://github.com/EasyFarm/EasyFarm/issues/130) for questions and feedback regarding the program. Feature requests and bug reports should be made in a different issue. 
 
 ## Want to contribute?
 Anyone can contribute to the project. Just make sure you've done your best to test the code you are changing and send me a pull request, and I'll add in your contribution!
