@@ -61,3 +61,5 @@ You can use these index values in the General Options tab of EasyFarm by:
 1. Right clicking on an action.
 2. Select "General Options"
 3. Find Index, and enter in the value.
+
+![image](https://cloud.githubusercontent.com/assets/5349608/16570598/ade2816c-4216-11e6-9111-37aa892cfc91.png)
