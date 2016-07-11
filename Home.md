@@ -13,3 +13,6 @@ Guide | Description
 [Action Types](action-types.md) | Explains the different types of actions and what the roles of each lists in the battle's table. 
 [Level enhancing magic](level-enhancing.md) | How to use the program to level your character's enhancing skills. 
 [Finding index values](action-indexes.md) | Explains where to find index values for weaponskills, abilities and spells. 
+
+# Index Values
+[Weaponskill index values](Weaponskill Index Values)
