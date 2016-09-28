@@ -1,4 +1,3 @@
-# Setting up the program
 1. Right click on the file and select Extract All…  
 ![image](https://cloud.githubusercontent.com/assets/5349608/18919086/e42a0b04-856a-11e6-830c-e45b121711cd.png)
  
